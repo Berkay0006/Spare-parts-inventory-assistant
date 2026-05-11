@@ -1,0 +1,3 @@
+                                           Spare parts inventory assistant
+
+This project is a simple C program that simulates a spare parts inventory system. The program allows the user to search for available spare parts by typing the name of a part. The inventory contains three known parts: a hydraulic pump, a PLC module, and a servo motor. If the requested part exists in the inventory, the program confirms that the part is available. If the part does not exist, the program informs the user that the item is not in stock. The user can also ask to see all available parts in the inventory, and the program will display the complete list of stored parts.
